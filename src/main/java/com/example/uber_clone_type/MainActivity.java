@@ -20,6 +20,14 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 openlo();
             }
+
+
+
+
+
+
+
+            //yest
         });
     }
     public void openlo()
