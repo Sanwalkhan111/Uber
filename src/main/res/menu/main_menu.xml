@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:title="Your Trips"
+    android:id="@+id/Trips"/>
+    <item
+        android:id="@+id/Payment"
+        android:title="Payment"/>
+    <item
+        android:id="@+id/Settings"
+        android:title="Setting"/>
+
+</menu>
