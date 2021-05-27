@@ -7,6 +7,8 @@ import android.widget.TextView;
 
 public class SplashActivity extends AppCompatActivity {
 
+
+
     private TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
