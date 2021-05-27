@@ -15,6 +15,8 @@ public class SplashActivity extends AppCompatActivity {
         textView=findViewById(R.id.tv_splash);
 
 
+        //its comment just for testing
+
 
 
     }
