@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283834581980",
+    "project_id": "uber-fba87",
+    "storage_bucket": "uber-fba87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283834581980:android:d2de01b2f4e9f632ec4519",
+        "android_client_info": {
+          "package_name": "com.office.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283834581980-5sk8gucual7dmotagv1vqfphdondur2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpQ9JNb8FcLu0lc9L9WMwUfjsjf7KLdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283834581980-5sk8gucual7dmotagv1vqfphdondur2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
